@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1544714182 source:c:\users\beboayman\desktop\v5\assignment4versio3 - copy\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	"GUI.h"
+
+1544629760 c:\users\beboayman\desktop\v5\assignment4versio3 - copy\include\sequence.h
+	<iostream>
+
+1544715299 c:\users\beboayman\desktop\v5\assignment4versio3 - copy\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+
+1544629824 c:\users\beboayman\desktop\v5\assignment4versio3 - copy\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544726749 c:\users\beboayman\desktop\v5\assignment4versio3 - copy\include\protein.h
+	"DNA.h"
+	"RNA.h"
+	"Sequence.h"
+	<fstream>
+
+1544550146 c:\users\beboayman\desktop\v5\assignment4versio3 - copy\include\codonstable.h
+	"DNA.h"
+	<string>
+	<iostream>
+
+1544697912 c:\users\beboayman\desktop\v5\assignment4versio3 - copy\include\gui.h
+	<iostream>
+
+1544559366 source:c:\users\beboayman\desktop\v5\assignment4versio3 - copy\src\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+
+1544721573 source:c:\users\beboayman\desktop\v5\assignment4versio3 - copy\src\dna.cpp
+	"DNA.h"
+	"vector"
+	<bits/stdc++.h>
+	<iostream>
+
+1544726877 source:c:\users\beboayman\desktop\v5\assignment4versio3 - copy\src\gui.cpp
+	"GUI.h"
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	<iostream>
+	<windef.h>
+
+1544726967 source:c:\users\beboayman\desktop\v5\assignment4versio3 - copy\src\protein.cpp
+	"Protein.h"
+
+1544724249 source:c:\users\beboayman\desktop\v5\assignment4versio3 - copy\src\rna.cpp
+	"RNA.h"
+	<iostream>
+	<cstring>
+	<string>
+	<bits/stdc++.h>
+
+1544628516 source:c:\users\beboayman\desktop\v5\assignment4versio3 - copy\src\sequence.cpp
+	"Sequence.h"
+	"DNA.h"
+	<iostream>
+
+1544559366 source:c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\src\codonstable.cpp
+	"CodonsTable.h"
+	<fstream>
+
+1544550146 c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\include\codonstable.h
+	"DNA.h"
+	<string>
+	<iostream>
+
+1544732694 c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+
+1544629760 c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\include\sequence.h
+	<iostream>
+
+1544629824 c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\include\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1544726750 c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\include\protein.h
+	"DNA.h"
+	"RNA.h"
+	"Sequence.h"
+	<fstream>
+
+1544726968 source:c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\src\protein.cpp
+	"Protein.h"
+
+1544724250 source:c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\src\rna.cpp
+	"RNA.h"
+	<iostream>
+	<cstring>
+	<string>
+	<bits/stdc++.h>
+
+1544628516 source:c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\src\sequence.cpp
+	"Sequence.h"
+	"DNA.h"
+	<iostream>
+
+1544732694 source:c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\main.cpp
+	"GUI.h"
+
+1544697914 c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\include\gui.h
+	<iostream>
+
+1544732711 source:c:\users\boody&gogo\desktop\new folder\v5\assignment4versio3 - copy\src\dna.cpp
+	"DNA.h"
+	"vector"
+	<bits/stdc++.h>
+	<iostream>
+
